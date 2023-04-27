@@ -40,9 +40,11 @@
   <p align="justify">
   I participated in a <strong>24 week Web Development bootcamp</strong>:  31/10/22 - 21/04/23<br>
   The first weeks we focus on small challenges to learn the basics of the world of programming. Then, we start creating some more complex projects<br>
-  BACKEND: Ruby on Rails + DB (Sql)
-  FRONTEND: HTML + SCSS + JS (STIMULUS)
-  Order of the projects (so as not to waste your time) from the most recent and complex to the oldest and simplest--> 
+  <ul>
+      <li>BACKEND: Ruby on Rails + DB (Sql)</li>
+      <li>FRONTEND: HTML + SCSS + JS (STIMULUS)</li>
+   </ul>
+  Order of the projects (so as not to waste your time) from the most recent and complex to the oldest and simplest<br>
   </p>
 <ol>
   <li>Jobsearch website with 2 users (jobseeker and employer): https://github.com/trinidadcerri/traum-job</li>
