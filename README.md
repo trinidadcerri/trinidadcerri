@@ -32,7 +32,7 @@
 
 <h4>🔭 I’m currently working on ...</h4>
 <ul>
-  <li>Create my personal portfolio: https://github.com/trinidadcerri/profile</li>
+  <li>Create my personal portfolio: https://github.com/trinidadcerri/portfolio</li>
   <li>Improve my frontend skills following the freecodecamp curriculum "Responsive Web Design" (with /zein1234): https://www.freecodecamp.org/learn/2022/responsive-web-design/</li>
 </ul>
 
