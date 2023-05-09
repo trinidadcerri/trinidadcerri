@@ -30,12 +30,6 @@
   </a>
 </p>
 
-<h4>🔭 I’m currently working on ...</h4>
-<ul>
-  <li>Create my personal portfolio: https://github.com/trinidadcerri/portfolio</li>
-  <li>Improve my frontend skills following the freecodecamp curriculum "Responsive Web Design" (with /zein1234): https://www.freecodecamp.org/learn/2022/responsive-web-design/</li>
-</ul>
-
 <h4> 🌱 My projects within the bootcamp: Le Wagon Berlin - Batch #1098</h4>
   <p align="justify">
   I participated in a <strong>24 week Web Development bootcamp</strong>:  31/10/22 - 21/04/23<br>
