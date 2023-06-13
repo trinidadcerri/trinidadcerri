@@ -50,6 +50,7 @@
   <ol>
     <li>Cat Photo App: https://trinidadcerri.github.io/CatPhotoApp/CatPhotoApp.html</li>
     <li>Cafe Menu: https://trinidadcerri.github.io/CafeMenu/CafeMenu.html</li>
+    <li>Set of Colored Markers: https://trinidadcerri.github.io/SetOfColors/</li>
   </ol>
 
 
