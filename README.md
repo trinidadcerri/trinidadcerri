@@ -48,7 +48,8 @@
 </ol>
  <h5> My projects within the Responsive Web Design FreeCodeCamp's Course:</h5>
   <ol>
-    <li>Cat Photo App:</li>
+    <li>Cat Photo App: https://trinidadcerri.github.io/responsive-web-design-01/CatPhotoApp.html</li>
+    <li>Cafe Menu: </li>
   </ol>
 
 
