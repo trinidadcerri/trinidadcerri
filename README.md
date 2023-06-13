@@ -49,7 +49,7 @@
  <h5> My projects within the Responsive Web Design FreeCodeCamp's Course:</h5>
   <ol>
     <li>Cat Photo App: https://trinidadcerri.github.io/CatPhotoApp/CatPhotoApp.html</li>
-    <li>Cafe Menu: </li>
+    <li>Cafe Menu: https://trinidadcerri.github.io/CafeMenu/CafeMenu.html</li>
   </ol>
 
 
