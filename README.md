@@ -40,6 +40,7 @@
       <li>HTML/CSS</li>
       <li>BOOTSTRAP 5</li>
       <li>JAVASCRIPT</li>
+      <li>REACT AND REDUX</li>
       <li>NODE.JS</li>
       <li>RESTFUL API DESIGN</li>
    </ol>
